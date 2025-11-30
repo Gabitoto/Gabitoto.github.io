@@ -16,4 +16,4 @@ Bienvenido a mi portafolio digital. Aquí comparto mis proyectos sobre:
 [Ver proyecto en GitHub](#) - Un análisis profundo usando Python.
 
 ---
-Contactame en [LinkedIn](www.linkedin.com/in/gabirondolucas99)
+Contactame en [LinkedIn]("www.linkedin.com/in/gabirondolucas99")
