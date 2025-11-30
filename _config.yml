@@ -1,5 +1,44 @@
-title: Portafolio de Lucas
-description: Data Scientist
-theme: jekyll-theme-minimal
+# _config.yml
+title: Lucas Gabirondo
+description: Solution Architect & Data Science Student
+url: "https://Gabitoto.github.io"
+
+# Esta es la magia para usar temas externos
+remote_theme: mmistakes/minimal-mistakes
+
+# Plugins necesarios para que funcione en GitHub
 plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
   - jekyll-seo-tag
+
+# Configuración del tema
+minimal_mistakes_skin: "dark" # Opciones: "air", "aqua", "contrast", "dark", "sunrise"
+locale: "es-ES"
+
+# Datos del autor (aparecerán en la barra lateral)
+author:
+  name: "Lucas Gabirondo"
+  avatar: "/assets/images/Profile.jpg" # Ruta de tu foto
+  bio: "Estudiante de Ciencia de Datos."
+  location: "Argentina"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tu-usuario"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/tu-usuario"
+
+# Menú de navegación (Top bar)
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
