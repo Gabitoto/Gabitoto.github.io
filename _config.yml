@@ -19,16 +19,16 @@ locale: "es-ES"
 # Datos del autor (aparecerán en la barra lateral)
 author:
   name: "Lucas Gabirondo"
-  avatar: "/assets/images/Profile.jpg" # Ruta de tu foto
+  avatar: "/assets/images/Profile.jpeg" # Ruta de tu foto
   bio: "Estudiante de Ciencia de Datos."
   location: "Argentina"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tu-usuario"
+      url: "https://github.com/Gabitoto"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/tu-usuario"
+      url: "https://linkedin.com/in/gabirondolucas99"
 
 # Menú de navegación (Top bar)
 defaults:
