@@ -1,4 +1,7 @@
-@import "minimal-mistakes/skins/aqua";
+---
+---
+
+@import "minimal-mistakes/skins/dark";
 
 /* Sobrescribir la forma del avatar */
 .author__avatar img {
@@ -22,3 +25,4 @@
   height: 180px;      /* Altura fija para las miniaturas */
   object-fit: cover;
 }
+
