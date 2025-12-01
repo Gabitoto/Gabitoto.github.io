@@ -1,0 +1,6 @@
+@import "minimal-mistakes/skins/aqua";
+
+/* Sobrescribir la forma del avatar */
+.author__avatar img {
+  border-radius: 0 !important; /* 0 = Cuadrado perfecto */
+}
