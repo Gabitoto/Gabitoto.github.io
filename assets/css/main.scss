@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "minimal-mistakes";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 
 /* Sobrescribir la forma del avatar */
 .author__avatar img {
