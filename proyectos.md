@@ -7,7 +7,7 @@ classes: wide
 
 # Aquí definimos las tarjetas de los proyectos
 proyectos_data_science:
-  - image_path: /assets/images/image2.jpg
+  - image_path: /assets/images/image1.jpg
     alt: "Sistema de Laboratorio Apícola - Análisis Palinológico"
     title: "App Web de Laboratorio Apícola"
     excerpt: "Sistema web desarrollado con Streamlit y Python para la gestión de análisis palinológicos en un laboratorio apícola. Permite realizar análisis de polen de miel, generar reportes con visualizaciones y administrar información de apicultores, analistas, especies y tambores..<br/><br/>**Tecnologías:** Python, Streamlit, Pandas."
@@ -15,7 +15,7 @@ proyectos_data_science:
     btn_label: "Ver en GitHub"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/image1.jpg
+  - image_path: /assets/images/images2.jpg
     alt: "Gráfico estadístico R"
     title: "Análisis de Aprobación en Matemáticas"
     excerpt: "Estudio estadístico sobre los factores que influyen en la aprobación de alumnos. Realicé pruebas de hipótesis y análisis de correlación para identificar variables clave en el rendimiento académico.<br/><br/>**Tecnologías:** R, Tidyverse, ggplot2."
