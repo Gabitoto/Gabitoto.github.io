@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: single
 title: Lucas Gabirondo
 author_profile: true
 header:
-  overlay_image: /assets/images/header-background.jpg
+  overlay_image: /assets/images/image3.jpg
   overlay_filter: 0.5 # Oscurece la imagen para leer mejor el texto
   caption: "Crédito foto: [**Unsplash**](https://unsplash.com)"
 excerpt: "Todos los modelos son erróneos, pero algunos son útiles. George Box."
