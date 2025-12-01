@@ -13,7 +13,7 @@ plugins:
   - jekyll-seo-tag
 
 # Configuración del tema
-minimal_mistakes_skin: "aqua" # Opciones: "air", "aqua", "contrast", "dark", "sunrise"
+minimal_mistakes_skin: "dark" # Opciones: "air", "aqua", "contrast", "dark", "sunrise"
 locale: "es-ES"
 
 # Datos del autor (aparecerán en la barra lateral)
