@@ -1,8 +1,23 @@
 ---
 ---
 
-/* Sobrescribir la forma del avatar */
-.author__avatar img {
-  border-radius: 0 !important; /* 0 = Cuadrado perfecto */
+/* Sobrescribir la forma del avatar para que sea cuadrado */
+.author__avatar,
+.author__avatar img,
+.author__avatar-wrapper,
+.author__avatar-wrapper img,
+.sidebar .author__avatar,
+.sidebar .author__avatar img,
+.page__author-profile .author__avatar img {
+  border-radius: 0 !important;
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+}
+
+/* Ocultar el título del sitio en la página (solo se mostrará en la pestaña del navegador) */
+.site-title,
+.masthead__inner-wrap .site-title,
+.site-title-wrapper {
+  display: none !important;
 }
 
