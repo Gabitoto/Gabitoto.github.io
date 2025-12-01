@@ -14,10 +14,8 @@
   -moz-border-radius: 0 !important;
 }
 
-/* Ocultar el título del sitio en la página (solo se mostrará en la pestaña del navegador) */
-.site-title,
-.masthead__inner-wrap .site-title,
-.site-title-wrapper {
-  display: none !important;
+/* Asegurar que el contenedor también sea cuadrado */
+.author__avatar {
+  border-radius: 0 !important;
+  overflow: hidden;
 }
-
