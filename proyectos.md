@@ -7,7 +7,7 @@ classes: wide
 
 # Aquí definimos las tarjetas de los proyectos
 proyectos_data_science:
-  - image_path: /assets/images/image1.jpg
+  - image_path: /assets/images/images1.jpg
     alt: "Sistema de Laboratorio Apícola - Análisis Palinológico"
     title: "App Web de Laboratorio Apícola"
     excerpt: "Sistema web desarrollado con Streamlit y Python para la gestión de análisis palinológicos en un laboratorio apícola. Permite realizar análisis de polen de miel, generar reportes con visualizaciones y administrar información de apicultores, analistas, especies y tambores..<br/><br/>**Tecnologías:** Python, Streamlit, Pandas."
