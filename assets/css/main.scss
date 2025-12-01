@@ -1,0 +1,10 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Sobrescribir la forma del avatar */
+.author__avatar img {
+  border-radius: 0 !important; /* 0 = Cuadrado perfecto */
+}
+
