@@ -18,7 +18,7 @@ locale: "es-ES"
 
 # Datos del autor (aparecerán en la barra lateral)
 author:
-  name:
+  name: "Gabirondo Lucas"
   avatar: "/assets/images/Profile.jpeg" # Ruta de tu foto
   bio: "Estudiante de Ciencia de Datos en la FI-UNER."
   location: "Argentina"
